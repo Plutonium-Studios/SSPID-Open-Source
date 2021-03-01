@@ -1,7 +1,7 @@
 # SSPID-Open-Source
 SSPID's Open Source Contributions Repository
 
-Please read the "LISCENCE" file for issues and/or info regarding liscencing.
+Please read the "LICENSE" file for issues and/or info regarding liscencing.
 
 SSPID is Plutonium Studios Upcoming Game "Scary Stories to Play In the Dark" or as I call it SSPID.
 
